@@ -2,7 +2,7 @@
 This group project is a console game based on olcpixelgameengine. A final project for year 2 programming II course.
 
 # Group Project: *“Shooter Game”*
-<Title -- toBeDecided>
+Title <-- toBeDecided>
 ## Table of contents
 * About the application
 * Description
